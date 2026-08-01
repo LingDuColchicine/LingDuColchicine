@@ -17,4 +17,3 @@
   <img src="https://skillicons.dev/icons?i=python,html,cpp,git,linux" alt="Python, HTML, C++, Git, and Linux" />
 </p>
 
-Thanks for visiting! ✨
